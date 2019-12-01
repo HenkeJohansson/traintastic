@@ -2,14 +2,32 @@
 
 A webapp to organize workouts.
 
-## TODO:
+## TODO: :sweat_smile:
 
 - [ ] Sign in
+  - [x] Sign in with email and password
+  - [ ] Sign facebook
+  - [ ] Sign google
+  - [ ] Sign twitter
 - [ ] User settings
+  - Saved routines
+  - Completed workouts
+    - date
+    - exersizes
+      - sets/reps/weights
+  - Theme
 - [ ] Menu
-- [ ] Your Workouts view
-  - [ ] List all workouts
-- [ ] Workout view
+  - Settings view
+  - Routines view
+  - Exersizes view
+  - Timers
+- [ ] Your Routines view
+  - [ ] List all routines
+- [ ] Routine view
+  - [ ] Create routine
+    - [ ] Add exersizes
+      - [ ] Set sets/reps/weight
+      - [ ] Set order of exersizes
   - [ ] List exersizes in workout
     - [ ] Mark exersize as done
     - [ ] Change weight/sets/reps
@@ -17,7 +35,12 @@ A webapp to organize workouts.
 - [ ] All Exersizes view
   - [ ] List of all exersizes
   - [ ] Add exersize
-- [ ] Timer (interval) view
+    - [ ] Set sets/reps/weight
+    - [ ] Set category/muscle group
+    - [ ] Set subCategory/which group of exersizes are similar and could replace
+- [ ] Timers view
+  - [ ] Countdown timer
+  - [ ] Interval timer
 
 [comment]: <> (~~ Strikethrough ~~)
 
